@@ -16,11 +16,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring_sample_xml_anno" />
         <module name="spring_sample" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring_sample" target="1.8" />
+      <module name="spring_sample_xml_anno" target="1.7" />
       <module name="StudySession" target="1.7" />
     </bytecodeTargetLevel>
   </component>

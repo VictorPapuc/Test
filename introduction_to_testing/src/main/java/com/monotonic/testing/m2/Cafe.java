@@ -22,7 +22,10 @@ public final class Cafe {
         beansInStock -= requiredBeans;
         milkInStock -= requiredMilk;
 
-        return new Coffee(coffeeType, requiredBeans, requiredMilk);
+
+        //return new Coffee(coffeeType, requiredBeans, requiredMilk);
+        return new Coffee(null, 1 + requiredBeans, requiredMilk);
+
     }
 
 

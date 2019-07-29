@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22437610-2c97-4328-81ef-9ad6e9231fd5" name="Default Changelist" comment="Added some new stuff ,lost track">
-      <change afterPath="$PROJECT_DIR$/introduction_to_testing/src/assert-void-methods/java/test/MyListTest.java" afterDir="false" />
+    <list default="true" id="22437610-2c97-4328-81ef-9ad6e9231fd5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/Cafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/Cafe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/CafeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/CafeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/WordWrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/WordWrap.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/CafeTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/WordWrapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="51" column="41" lean-forward="true" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,35 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/CoffeeType.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/WordWrap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/Cafe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/Coffee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-              <folding>
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -93,6 +67,7 @@
       <find>§</find>
       <find>getType</find>
       <find>brewing</find>
+      <find>before</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/spring_sample_singleton/src/main/java/learn/service</dir>
@@ -113,14 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sprin_sample_java_config/src/main/java/com/learn/repository/HibernateCustomerRepositoryImpl.java" />
-        <option value="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java/com/learning/service/CustomerServiceImpl.java" />
-        <option value="$PROJECT_DIR$/test_various_stuff/src/Chick.java" />
-        <option value="$PROJECT_DIR$/test_various_stuff/src/Blocks.java" />
-        <option value="$PROJECT_DIR$/test_various_stuff/src/Writer.java" />
-        <option value="$PROJECT_DIR$/test_various_stuff/src/TestClass.java" />
-        <option value="$PROJECT_DIR$/test_various_stuff/src/Rabbit.java" />
-        <option value="$PROJECT_DIR$/test_various_stuff/src/StatiCINs.java" />
         <option value="$PROJECT_DIR$/test_various_stuff/src/Test.java" />
         <option value="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java/com/learning/Application.java" />
         <option value="$PROJECT_DIR$/sprin_sample_java_config/src/main/java/com/learn/Application.java" />
@@ -156,14 +123,22 @@
         <option value="$PROJECT_DIR$/spring_sample_java_config/src/main/java/com/learn/repository/HibernateCustomerRepositoryImpl.java" />
         <option value="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/CoffeeType.java" />
         <option value="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/Coffee.java" />
-        <option value="$PROJECT_DIR$/introduction_to_testing/pom.xml" />
         <option value="$PROJECT_DIR$/test_various_stuff/src/LoopLoop.java" />
         <option value="$PROJECT_DIR$/test_various_stuff/src/Modulululus.java" />
         <option value="$PROJECT_DIR$/test_various_stuff/src/Scanarea.java" />
         <option value="$PROJECT_DIR$/introduction_to_testing/src/assert-void-methods/java/build/MyList.java" />
         <option value="$PROJECT_DIR$/introduction_to_testing/src/assert-void-methods/java/test/MyListTest.java" />
         <option value="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/Cafe.java" />
+        <option value="$PROJECT_DIR$/introduction_to_testing/pom.xml" />
+        <option value="$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/HamCrestExampleTest.java" />
         <option value="$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/CafeTest.java" />
+        <option value="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/LeapYear.java" />
+        <option value="$PROJECT_DIR$/introduction_to_testing/src/tdd/java/com/monotonic/testing/LeapYearTest.java" />
+        <option value="$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/LeapYearTest.java" />
+        <option value="$PROJECT_DIR$/introduction_to_testing/src/tdd/java/com/monotonic/testing/LeapYear.java" />
+        <option value="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/LeapYear.java" />
+        <option value="$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/WordWrapTest.java" />
+        <option value="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/WordWrap.java" />
       </list>
     </option>
   </component>
@@ -210,6 +185,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -217,71 +194,10 @@
               <item name="Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="introduction_to_testing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="introduction_to_testing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="introduction_to_testing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="introduction_to_testing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="introduction_to_testing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="m2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="introduction_to_testing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="introduction_to_testing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-              <item name="introduction_to_testing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="m2" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,8 +220,19 @@
       <recent name="com.learn.service" />
       <recent name="com.learn.repository" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OCA_FILES" />
+      <recent name="$PROJECT_DIR$/spring_sample_xml_anno/src" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.monotonic.testing.m2" />
+      <recent name="com.monotonic.testing" />
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="firstpackage.lessons.lesson7" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -313,13 +240,9 @@
       <recent name="$PROJECT_DIR$/spring_sample_xml_anno/src/main/resources" />
       <recent name="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-      <recent name="firstpackage.lessons.lesson7" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spring_sample_xml_anno/src" />
-      <recent name="$PROJECT_DIR$/src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.monotonic.testing.m2" />
+      <recent name="com.monotonic.testing" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -334,7 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CafeTest">
+  <component name="RunManager" selected="JUnit.WordWrapTest">
     <configuration name="CafeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="introduction_to_testing" />
       <extension name="coverage">
@@ -346,22 +269,6 @@
       <option name="PACKAGE_NAME" value="com.monotonic.testing.m2" />
       <option name="MAIN_CLASS_NAME" value="com.monotonic.testing.m2.CafeTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CafeTest.brewingEspressoConsumesBeans" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="introduction_to_testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.monotonic.testing.m2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.monotonic.testing.m2" />
-      <option name="MAIN_CLASS_NAME" value="com.monotonic.testing.m2.CafeTest" />
-      <option name="METHOD_NAME" value="brewingEspressoConsumesBeans" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -382,7 +289,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CafeTest.latteRequiresMilk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LeapYearTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="introduction_to_testing" />
       <extension name="coverage">
         <pattern>
@@ -391,41 +298,56 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.monotonic.testing.m2" />
-      <option name="MAIN_CLASS_NAME" value="com.monotonic.testing.m2.CafeTest" />
-      <option name="METHOD_NAME" value="latteRequiresMilk" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="introduction_to_testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.MyListTest" />
+      <option name="MAIN_CLASS_NAME" value="com.monotonic.testing.m2.LeapYearTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WordWrapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="introduction_to_testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.monotonic.testing.m2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.monotonic.testing.m2" />
+      <option name="MAIN_CLASS_NAME" value="com.monotonic.testing.m2.WordWrapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordWrapTest.lineShouldWrapIfOverLineLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="introduction_to_testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.monotonic.testing.m2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.monotonic.testing.m2" />
+      <option name="MAIN_CLASS_NAME" value="com.monotonic.testing.m2.WordWrapTest" />
+      <option name="METHOD_NAME" value="lineShouldWrapIfOverLineLength" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.CafeTest.canBrewEspresso" />
-      <item itemvalue="JUnit.CafeTest.brewingEspressoConsumesBeans" />
       <item itemvalue="JUnit.CafeTest" />
-      <item itemvalue="JUnit.CafeTest.latteRequiresMilk" />
-      <item itemvalue="JUnit.MyListTest" />
+      <item itemvalue="JUnit.CafeTest.canBrewEspresso" />
+      <item itemvalue="JUnit.LeapYearTest" />
+      <item itemvalue="JUnit.WordWrapTest.lineShouldWrapIfOverLineLength" />
+      <item itemvalue="JUnit.WordWrapTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WordWrapTest" />
+        <item itemvalue="JUnit.WordWrapTest.lineShouldWrapIfOverLineLength" />
+        <item itemvalue="JUnit.LeapYearTest" />
         <item itemvalue="JUnit.CafeTest" />
-        <item itemvalue="JUnit.CafeTest.brewingEspressoConsumesBeans" />
-        <item itemvalue="JUnit.MyListTest" />
-        <item itemvalue="JUnit.CafeTest.latteRequiresMilk" />
         <item itemvalue="JUnit.CafeTest.canBrewEspresso" />
       </list>
     </recent_temporary>
@@ -458,7 +380,10 @@
       <workItem from="1560346144264" duration="8201000" />
       <workItem from="1562067257310" duration="172000" />
       <workItem from="1562137493173" duration="6508000" />
-      <workItem from="1563348394704" duration="6852000" />
+      <workItem from="1563348394704" duration="7764000" />
+      <workItem from="1563865765535" duration="8809000" />
+      <workItem from="1564131008791" duration="1282000" />
+      <workItem from="1564382141573" duration="7584000" />
     </task>
     <task id="LOCAL-00001" summary="Sssasasa">
       <created>1556820655577</created>
@@ -558,43 +483,57 @@
       <option name="project" value="LOCAL" />
       <updated>1562138146728</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="New shit">
+      <created>1563802243898</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1563802243900</updated>
+    </task>
+    <task id="LOCAL-00016" summary="New shit and OCA FILES">
+      <created>1564402046143</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1564402046143</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CafeTest - 2019.07.22 at 15h 06m 13s.xml">
+    <history-entry file="CafeTest_canBrewEspresso - 2019.07.26 at 11h 16m 49s.xml">
+      <configuration name="CafeTest.canBrewEspresso" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CafeTest - 2019.07.29 at 10h 37m 07s.xml">
       <configuration name="CafeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CafeTest - 2019.07.22 at 15h 07m 58s.xml">
-      <configuration name="CafeTest" configurationId="JUnit" />
+    <history-entry file="LeapYearTest - 2019.07.29 at 11h 04m 59s.xml">
+      <configuration name="LeapYearTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CafeTest - 2019.07.22 at 15h 08m 53s.xml">
-      <configuration name="CafeTest" configurationId="JUnit" />
+    <history-entry file="LeapYearTest - 2019.07.29 at 11h 08m 37s.xml">
+      <configuration name="LeapYearTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CafeTest_brewingEspressoConsumesBeans - 2019.07.22 at 15h 14m 16s.xml">
-      <configuration name="CafeTest.brewingEspressoConsumesBeans" configurationId="JUnit" />
+    <history-entry file="LeapYearTest - 2019.07.29 at 11h 21m 49s.xml">
+      <configuration name="LeapYearTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CafeTest_brewingEspressoConsumesBeans - 2019.07.22 at 15h 14m 45s.xml">
-      <configuration name="CafeTest.brewingEspressoConsumesBeans" configurationId="JUnit" />
+    <history-entry file="LeapYearTest - 2019.07.29 at 11h 50m 29s.xml">
+      <configuration name="LeapYearTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CafeTest - 2019.07.22 at 15h 14m 49s.xml">
-      <configuration name="CafeTest" configurationId="JUnit" />
+    <history-entry file="LeapYearTest - 2019.07.29 at 12h 01m 29s.xml">
+      <configuration name="LeapYearTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CafeTest - 2019.07.22 at 15h 21m 19s.xml">
-      <configuration name="CafeTest" configurationId="JUnit" />
+    <history-entry file="LeapYearTest - 2019.07.29 at 12h 03m 26s.xml">
+      <configuration name="LeapYearTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CafeTest - 2019.07.22 at 15h 52m 32s.xml">
-      <configuration name="CafeTest" configurationId="JUnit" />
+    <history-entry file="WordWrapTest_lineShouldWrapIfOverLineLength - 2019.07.29 at 14h 48m 27s.xml">
+      <configuration name="WordWrapTest.lineShouldWrapIfOverLineLength" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CafeTest - 2019.07.22 at 16h 15m 36s.xml">
-      <configuration name="CafeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CafeTest - 2019.07.22 at 16h 24m 13s.xml">
-      <configuration name="CafeTest" configurationId="JUnit" />
+    <history-entry file="WordWrapTest - 2019.07.29 at 15h 02m 40s.xml">
+      <configuration name="WordWrapTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84491000" />
+    <option name="totallyTimeSpent" value="103078000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -607,9 +546,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26890308" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24227902" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -618,15 +556,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32946634" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946752" visible="true" weight="0.32320163" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990099" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.30800405" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39817628" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" weight="0.32165605" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4993895" visible="true" weight="0.32016212" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005325" side_tool="true" weight="0.35643566" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3188119" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32830626" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3280255" />
       <window_info anchor="bottom" id="Spring" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
@@ -659,45 +597,12 @@
     <MESSAGE value="New Branch - introduction to testing" />
     <MESSAGE value="More on assert" />
     <MESSAGE value="Added some new stuff ,lost track" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some new stuff ,lost track" />
+    <MESSAGE value="New shit" />
+    <MESSAGE value="New shit and OCA FILES" />
+    <option name="LAST_COMMIT_MESSAGE" value="New shit and OCA FILES" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring_sample/src/main/resources/applicationContext.xml" />
-    <entry file="file://$PROJECT_DIR$/spring_sample/src/main/java/com/learn/service/CustomerService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_sample/src/main/java/com/learn/repository/HibernateCustomerRepositoryImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_sample/src/main/java/com/learn/model/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_sample/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_sample_xml/src/main/java/com/learn/model/Customer.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring_sample_xml/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -956,33 +861,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/introduction_to_testing/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/assert-void-methods/java/build/MyList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/assert-void-methods/java/test/MyListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
+        <state relative-caret-position="63">
           <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
             <element signature="e#992#993#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/CoffeeType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/Cafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -999,27 +900,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/CoffeeType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/Cafe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/tdd/LeapYearTest.class">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/CafeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="41" lean-forward="true" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
+        <state relative-caret-position="170">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2320#2321#0" expanded="true" />
+            <element signature="e#2370#2371#0" expanded="true" />
+            <element signature="e#2425#2426#0" expanded="true" />
+            <element signature="e#2474#2475#0" expanded="true" />
+            <element signature="e#2514#2515#0" expanded="true" />
+            <element signature="e#2547#2548#0" expanded="true" />
+            <element signature="e#2585#2586#0" expanded="true" />
+            <element signature="e#2628#2629#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/assert-void-methods/java/build/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/HamCrestExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1000#1001#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introduction_to_testing/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/LeapYearTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/LeapYear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/WordWrapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/WordWrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

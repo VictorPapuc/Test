@@ -1,4 +1,4 @@
-package javatest;
+package javatest.test;
 
 public class EasyJavaQuestions {
 

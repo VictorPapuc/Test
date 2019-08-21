@@ -17,15 +17,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="introduction_to_testing" />
+        <module name="javaintermediate" />
         <module name="spring_sample" />
-        <module name="spring_sample_java_config" />
         <module name="spring_sample_bean_scope" />
-        <module name="spring_sample_xml_anno" />
+        <module name="spring_sample_java_config" />
         <module name="spring_sample_xml" />
+        <module name="spring_sample_xml_anno" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="introduction_to_testing" target="8" />
+      <module name="javaintermediate" target="1.7" />
       <module name="sprin_sample_java_config" target="1.8" />
       <module name="spring_sample" target="1.8" />
       <module name="spring_sample (1)" target="1.8" />

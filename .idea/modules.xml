@@ -5,12 +5,14 @@
       <module fileurl="file://$PROJECT_DIR$/StudySession.iml" filepath="$PROJECT_DIR$/StudySession.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction_to_testing/introduction_to_testing.iml" filepath="$PROJECT_DIR$/introduction_to_testing/introduction_to_testing.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_fundamentals/java_fundamentals.iml" filepath="$PROJECT_DIR$/java_fundamentals/java_fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-intermediate/javaintermediate.iml" filepath="$PROJECT_DIR$/java-intermediate/javaintermediate.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_sample_java_config/src/main/main.iml" filepath="$PROJECT_DIR$/spring_sample_java_config/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_sample/spring_sample.iml" filepath="$PROJECT_DIR$/spring_sample/spring_sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_sample_bean_scope/spring_sample_bean_scope.iml" filepath="$PROJECT_DIR$/spring_sample_bean_scope/spring_sample_bean_scope.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_sample_java_config/spring_sample_java_config.iml" filepath="$PROJECT_DIR$/spring_sample_java_config/spring_sample_java_config.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_sample_xml/spring_sample_xml.iml" filepath="$PROJECT_DIR$/spring_sample_xml/spring_sample_xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_sample_xml_anno/spring_sample_xml_anno.iml" filepath="$PROJECT_DIR$/spring_sample_xml_anno/spring_sample_xml_anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tatuaj/tatuaj.iml" filepath="$PROJECT_DIR$/tatuaj/tatuaj.iml" />
       <module fileurl="file://$PROJECT_DIR$/test_various_stuff/test_various_stuff.iml" filepath="$PROJECT_DIR$/test_various_stuff/test_various_stuff.iml" />
     </modules>
   </component>

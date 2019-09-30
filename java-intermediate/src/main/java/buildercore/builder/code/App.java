@@ -1,9 +1,9 @@
-package builders.clean.code;
+package buildercore.builder.code;
 
 
-import builder.Account;
-import builder.Adress;
-import builder.Name;
+import buildercore.builder.setup.Account;
+import buildercore.builder.setup.Adress;
+import buildercore.builder.setup.Name;
 import com.google.common.collect.ImmutableList;
 
 public class App {
@@ -24,9 +24,10 @@ public class App {
                 .build();
 
 
-        Account account = new Account.Builder().adress(adress).email("bakak@gnauk.com").name(name).id(12).build();
-
+        Account account = new Account.Builder()
+                .adress(adress)
+                .email("bakak@gnauk.com")
+                .name(name)
+                .id(12).build();
     }
-
-
 }

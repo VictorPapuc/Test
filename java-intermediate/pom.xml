@@ -12,11 +12,10 @@
     <artifactId>java-intermediate</artifactId>
 
     <dependencies>
-
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>10.0.1</version>
+            <version>21.0</version>
         </dependency>
 
     </dependencies>

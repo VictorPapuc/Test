@@ -1,4 +1,4 @@
-package builder;
+package buildercore.builder.setup;
 
 import java.util.List;
 

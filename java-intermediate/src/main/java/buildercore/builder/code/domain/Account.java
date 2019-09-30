@@ -1,4 +1,4 @@
-package builders.clean.code.domain;
+package buildercore.builder.code.domain;
 
 import java.util.List;
 

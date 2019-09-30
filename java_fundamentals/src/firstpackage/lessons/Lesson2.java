@@ -6,7 +6,7 @@ public class Lesson2 {
     public static void main(String[] args) {
 
 
-        String[] f = {"ss", "sss ", "sssss"};
+        String[] f = {"Sablon", "sss ", "sssss"};
 
         for (String s : f) {
             System.out.println(s);
@@ -57,7 +57,7 @@ public class Lesson2 {
 //
 //
 //        do{
-////          System.out.println("ss");
+////          System.out.println("Sablon");
 ////        } while(loop >3);
 ////
 ////            System.out.println("sss");
@@ -74,7 +74,7 @@ public class Lesson2 {
 //        if (a > b) {
 //            System.out.println("yes");
 //        } else if (a < b) {
-//            System.out.println("ss");
+//            System.out.println("Sablon");
 //        } else if (a == b) {
 //            System.out.println("no");
 //        } else {

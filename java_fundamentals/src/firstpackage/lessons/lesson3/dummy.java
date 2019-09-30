@@ -32,8 +32,8 @@ public class dummy {
 //        System.out.println();
 //        s.add1Passenger();
 //
-//        dummy ss = new dummy();
-//        ss.showSum(1, 11, 0);
+//        dummy Sablon = new dummy();
+//        Sablon.showSum(1, 11, 0);
 //
 //
 //    }

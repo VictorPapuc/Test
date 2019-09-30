@@ -27,11 +27,11 @@ public class Lesson1 {
 
 
 //
-//        ss();
+//        Sablon();
 ///
 //
-//        int ss = 0;
-//        ss = 0;
+//        int Sablon = 0;
+//        Sablon = 0;
 //
 //        int firstValue = 0;
 //
@@ -74,7 +74,7 @@ public class Lesson1 {
 //    //variables
 //    // declare and assgint
 //
-//    public static void ss() {
+//    public static void Sablon() {
 //
 //         int a = 100 ;
 //         int b = 22;

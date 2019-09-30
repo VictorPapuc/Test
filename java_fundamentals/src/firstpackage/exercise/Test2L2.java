@@ -11,7 +11,7 @@ public class Test2L2 {
 
     public static void main(String[] args) {
 
-        String[] m = {"ss", "sss", "sss"};
+        String[] m = {"Sablon", "sss", "sss"};
 
         for (String p : m) {
             System.out.println(p);

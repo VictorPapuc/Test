@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22437610-2c97-4328-81ef-9ad6e9231fd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/algorithms/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algorithms/quicksort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithms/src/main/java/algorithms/test/TestQuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms_test/algorithms_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms_test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms_test/src/main/java/algorithms/quicksort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms_test/src/main/java/algorithms/quicksort/QuickSort2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms_test/src/main/java/algorithms/test/TestQuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-intermediate/javaintermediate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-intermediate/javaintermediate.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml/target/classes/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml/target/classes/applicationContext.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,23 +34,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>§</find>
-      <find>getType</find>
-      <find>brewing</find>
-      <find>before</find>
-      <find>abstract</find>
-      <find>delete</find>
-      <find>add</find>
-      <find>remove</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/spring_sample_singleton/src/main/java/learn/service</dir>
-      <dir>$PROJECT_DIR$</dir>
-      <dir>$PROJECT_DIR$/java_fundamentals</dir>
-    </dirStrings>
   </component>
   <component name="Git.Rebase.Settings">
     <option name="ONTO" value="refs/heads/feature/testingWithJava" />
@@ -133,7 +119,7 @@
       <recent name="com.monotonic.testing" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestQuickSort">
+  <component name="RunManager" selected="Application.QuickSort2">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="spring_sample" />
@@ -144,6 +130,19 @@
     <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.quicksort.QuickSort" />
       <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.quicksort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.quicksort.QuickSort2" />
+      <module name="algorithms_test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="algorithms.quicksort.*" />
@@ -167,48 +166,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tutorial2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="genericmethods.Tutorial2" />
-      <module name="javaintermediate" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="genericmethods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CafeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="introduction_to_testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.monotonic.testing.m2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.monotonic.testing.m2" />
-      <option name="MAIN_CLASS_NAME" value="com.monotonic.testing.m2.CafeTest" />
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="s" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="s" />
+      <module name="algorithms_test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Tutorial2" />
-      <item itemvalue="JUnit.CafeTest" />
       <item itemvalue="Application.Application" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.TestQuickSort" />
+      <item itemvalue="Application.s" />
+      <item itemvalue="Application.QuickSort2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestQuickSort" />
+        <item itemvalue="Application.QuickSort2" />
+        <item itemvalue="Application.s" />
         <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.TestQuickSort" />
         <item itemvalue="Application.Application" />
-        <item itemvalue="JUnit.CafeTest" />
-        <item itemvalue="Application.Tutorial2" />
       </list>
     </recent_temporary>
   </component>
@@ -441,10 +419,10 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2000" y="205" key="#Project_Structure" timestamp="1580991278358">
+    <state x="2000" y="205" key="#Project_Structure" timestamp="1581347734672">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="2000" y="205" key="#Project_Structure/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1580991278358" />
+    <state x="2000" y="205" key="#Project_Structure/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1581347734672" />
     <state x="2123" y="350" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580992542630">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
@@ -453,25 +431,25 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="2289" y="250" key="#xdebugger.evaluate/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1581000117599" />
-    <state width="1878" height="149" key="GridCell.Tab.0.bottom" timestamp="1581000600987">
+    <state width="1878" height="274" key="GridCell.Tab.0.bottom" timestamp="1581347871419">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="149" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1581000600987" />
+    <state width="1878" height="274" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1581347871419" />
     <state width="1878" height="274" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1580992463976" />
-    <state width="1878" height="149" key="GridCell.Tab.0.center" timestamp="1581000600984">
+    <state width="1878" height="274" key="GridCell.Tab.0.center" timestamp="1581347871416">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="149" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1581000600984" />
+    <state width="1878" height="274" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1581347871416" />
     <state width="1878" height="274" key="GridCell.Tab.0.center/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1580992463973" />
-    <state width="1878" height="149" key="GridCell.Tab.0.left" timestamp="1581000600982">
+    <state width="1878" height="274" key="GridCell.Tab.0.left" timestamp="1581347871414">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="149" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1581000600982" />
+    <state width="1878" height="274" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1581347871414" />
     <state width="1878" height="274" key="GridCell.Tab.0.left/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1580992463971" />
-    <state width="1878" height="149" key="GridCell.Tab.0.right" timestamp="1581000600985">
+    <state width="1878" height="274" key="GridCell.Tab.0.right" timestamp="1581347871418">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="149" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1581000600985" />
+    <state width="1878" height="274" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1581347871418" />
     <state width="1878" height="274" key="GridCell.Tab.0.right/0.23.1440.877/1440.0.1920.1080@1440.0.1920.1080" timestamp="1580992463974" />
     <state width="1878" height="364" key="GridCell.Tab.1.bottom" timestamp="1581000207460">
       <screen x="1440" y="0" width="1920" height="1080" />
@@ -489,10 +467,10 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="364" key="GridCell.Tab.1.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1581000207459" />
-    <state x="1794" y="237" key="new project wizard" timestamp="1580992521551">
+    <state x="1794" y="237" key="new project wizard" timestamp="1581347703610">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
-    <state x="1794" y="237" key="new project wizard/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1580992521551" />
+    <state x="1794" y="237" key="new project wizard/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1581347703610" />
     <state x="2065" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1580998878821">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>

@@ -14,6 +14,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/algorithms/pom.xml" />
         <option value="$PROJECT_DIR$/sprin_sample_java_config/pom.xml" />
         <option value="$PROJECT_DIR$/spring_sample_singleton/pom.xml" />
       </set>

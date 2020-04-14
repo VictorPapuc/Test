@@ -7,7 +7,6 @@ public abstract class Phone {
         System.out.println("Call...");
     }
 
-
     public abstract void move();
 
     public abstract void dance();

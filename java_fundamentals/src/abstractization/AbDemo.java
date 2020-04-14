@@ -1,6 +1,6 @@
 package abstractization;
 
-public class AbDemo {
+public class AbDemo  {
 
     private Phone phone;
 

@@ -21,20 +21,19 @@ public class Main {
         for (MathEquation equation : mathEquations) {
             equation.execute();
             System.out.println("result = " + equation.getResult());
-
         }
     }
 
 
 //    public static MathEquation create(double leftVal, double rightVal, char oPcode) {
 //
-//        MathEquation equation = new MathEquation();
-//        equation.setLeftVal(leftVal);
-//        equation.setRightVal(rightVal);
-//        equation.setOpCode(oPcode);
-//
-//        return equation;
-//
-//    }
+////        MathEquation equation = new MathEquation();
+////        equation.setLeftVal(leftVal);
+////        equation.setRightVal(rightVal);
+////        equation.setOpCode(oPcode);
+////
+////        return equation;
+////
+////    }
 
 }

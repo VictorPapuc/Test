@@ -1,46 +1,152 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="22437610-2c97-4328-81ef-9ad6e9231fd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-intermediate/javaintermediate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/builder/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/builder/Adress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/builder/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/builders/clean/code/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/builders/clean/code/domain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/collection/CollectionMethods1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/collection/CollectionMethods2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/collection/CollectionTutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/collection/CollectionTutorial2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/commonstringmethods/Tutorial1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/commonstringmethods/Tutorial2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/genericmethods/Tutorial1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/genericmethods/Tutorial2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/hashset/HashSetTutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/linkedlist/Tutorial1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/list/ConvertingList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-intermediate/src/main/java/recursion/Tutorial1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_fundamentals/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/avalabile_flights/FlightsMeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/gettersetters/PlaneSeats.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_21_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_21_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_21_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_21_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/introduction_to_testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/unit-testing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/assert-void-methods/java/build/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/assert-void-methods/java/build/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/assert-void-methods/java/test/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/assert-void-methods/java/test/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/Cafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/com/monotonic/testing/m2/Cafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/com/monotonic/testing/m2/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/CoffeeType.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/com/monotonic/testing/m2/CoffeeType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/com/monotonic/testing/m2/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/WordWrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/com/monotonic/testing/m2/WordWrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/m5/before_refactor/SalesAnalysisService.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/m5/before_refactor/SalesAnalysisService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/m5/before_refactor/SalesReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/m5/before_refactor/SalesReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/m5/before_refactor/SimpleReportRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/m5/before_refactor/SimpleReportRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/resources/example-sales.csv" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/resources/example-sales.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/CafeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/monotonic/testing/m2/CafeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/HamCrestExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/monotonic/testing/m2/HamCrestExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/LeapYearTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/monotonic/testing/m2/LeapYearTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/WordWrapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/monotonic/testing/m2/WordWrapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-intermediate/javaintermediate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-intermediate/javaintermediate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-intermediate/src/main/java/hashset/HashSetTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/list/HashSetDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/abstractization/AbDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/abstractization/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/calculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/calculator/MathEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/calculator/MathEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/Sablon.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/Sablon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/exercise/Test1L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/exercise/Test1L1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/exercise/Test2L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/exercise/Test2L2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/exercise/testl3/Dummy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/exercise/testl3/Dummy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/exercise/testl3/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/exercise/testl3/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/Lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/Lesson1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/Lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/Lesson2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson3/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/constructors/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson3/dummy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson4/Earth.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson4/Earth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson4/flight/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson4/flight/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson4/flight/Passanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson4/flight/Passanger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson5/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson5/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson6/CargoFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson6/CargoFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson6/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson6/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson6/Passanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson6/Passanger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson6/object/Dummy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson6/object/Dummy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson6/object/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson6/object/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson6/object/Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson6/object/Object.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson7/CargoFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson7/CargoFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson7/CargoOnlyPilot.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson7/CargoOnlyPilot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson7/Dummy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson7/Dummy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson7/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson7/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson7/FullLicensePilot.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson7/FullLicensePilot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson7/Pilot.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson7/Pilot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/functionality/JavaFunctionalities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/functionality/variables/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/types/CastingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/functionality/variables/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/types/JavaOperatorsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/functionality/variables/Stringuri.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/types/StringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/functionality/variables/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/types/DateTypeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/test/EasyJavaQuestions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/test/Exercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/test/InterfaceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/test/JavaLogicalExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/test/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/test/javafundamentals/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/list/Liste.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/list/ListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/overriding/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/oop/overriding/Parent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/overriding/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/oop/overriding/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/overriding/OverridingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/oop/overriding/OverridingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample/spring_sample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample/src/main/java/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample/src/main/java/com/learn/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample/src/main/java/com/learn/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample/src/main/java/com/learn/repository/HibernateCustomerRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample/src/main/java/com/learn/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample/src/main/java/com/learn/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/spring_sample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/spring_sample_bean_scope.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/spring_sample_java_config.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/src/main/java/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/src/main/java/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/src/main/java/com/learn/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/src/main/java/com/learn/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/src/main/java/com/learn/repository/HibernateCustomerRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/src/main/java/com/learn/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/src/main/java/com/learn/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/spring_sample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/spring_sample_java_config.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/src/main/java/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/src/main/java/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/src/main/java/com/learn/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/src/main/java/com/learn/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/src/main/java/com/learn/repository/HibernateCustomerRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/src/main/java/com/learn/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/src/main/java/com/learn/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/src/main/resources/app.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml/spring_sample_xml.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml/src/main/java/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml/src/main/java/com/learn/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml/src/main/java/com/learn/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml/src/main/java/com/learn/repository/HibernateCustomerRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml/src/main/java/com/learn/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml/src/main/java/com/learn/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml/target/classes/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml/target/classes/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/spring_sample_xml.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/spring_sample_xml_anno.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java/com/learn/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java/com/learn/repository/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java/com/learn/repository/HibernateCustomerRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java/com/learn/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java/com/learn/service/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tatuaj/src/tattoo/BaseClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tatuaj/src/tattoo/Life.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tatuaj/tatuaj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/playground/playground.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/Blocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/Blocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/Chick.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/Chick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/LoopLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/LoopLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/Modulululus.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/Modulululus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/Rabbit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/RandomClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/RandomClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/Scanarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/Scanarea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/StatiCINs.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/StatiCINs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/Writer.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/Writer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_various_stuff/test_various_stuff.iml" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/spring_sample/target/" />
-    <ignored path="$PROJECT_DIR$/spring_sample_xml_anno/target/" />
-    <ignored path="$PROJECT_DIR$/spring_sample_xml_anno222/target/" />
-    <ignored path="$PROJECT_DIR$/spring_sample_java_config/target/" />
-    <ignored path="$PROJECT_DIR$/spring_samplekk/target/" />
-    <ignored path="$PROJECT_DIR$/sprin_sample_java_config/target/" />
-    <ignored path="$PROJECT_DIR$/spring_sample_singleton/target/" />
-    <ignored path="$PROJECT_DIR$/spring_sample_xml/target/" />
-    <ignored path="$PROJECT_DIR$/spring_sample_xml_configuration/target/" />
-    <ignored path="$PROJECT_DIR$/spring_sample_bean_scope/target/" />
-    <ignored path="$PROJECT_DIR$/introduction_to_testing/target/" />
-    <ignored path="$PROJECT_DIR$/java-intermediate/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,130 +155,8 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1479564536">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="28" />
-          <entry key="txt" value="2" />
-          <entry key="xml" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="28" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="XML" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="1" />
-          <entry key="java" value="5135" />
-          <entry key="txt" value="17" />
-          <entry key="xml" value="24" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="5135" />
-          <entry key="PLAIN_TEXT" value="18" />
-          <entry key="XML" value="24" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="Test" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-intermediate/src/main/java/builders/clean/code/domain/Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="14" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-intermediate/src/main/java/builder/Adress.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-              <folding>
-                <element signature="e#1060#1061#0" expanded="true" />
-                <element signature="e#1107#1108#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-intermediate/src/main/java/builders/clean/code/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-intermediate/src/main/java/builder/Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/10.0.1/guava-10.0.1.jar!/com/google/common/collect/ImmutableList.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-intermediate/src/main/java/builder/Name.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="e#919#920#0" expanded="true" />
-                <element signature="e#965#966#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-intermediate/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -211,6 +195,14 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -269,18 +261,6 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/tools/apache-maven-3.6.1" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
@@ -306,6 +286,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectId" id="1o1k4vcj0TkbizkyouegUimKNuC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -327,7 +308,13 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -343,14 +330,24 @@
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/spring_sample_xml_anno/src/main/resources/applicationContext.xml" />
   </component>
   <component name="RecentsManager">
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="com.learn.service" />
-      <recent name="com.learn.repository" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.monotonic.testing.m2" />
+      <recent name="com.monotonic.testing" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/sprin_sample_java_config/src/main/resources" />
+      <recent name="$PROJECT_DIR$/spring_sample_xml_anno/src/main/resources" />
+      <recent name="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/OCA_FILES" />
       <recent name="$PROJECT_DIR$/spring_sample_xml_anno/src" />
       <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.learn.service" />
+      <recent name="com.learn.repository" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.monotonic.testing.m2" />
@@ -362,36 +359,14 @@
       <recent name="" />
       <recent name="firstpackage.lessons.lesson7" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/sprin_sample_java_config/src/main/resources" />
-      <recent name="$PROJECT_DIR$/spring_sample_xml_anno/src/main/resources" />
-      <recent name="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.monotonic.testing.m2" />
-      <recent name="com.monotonic.testing" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Tutorial2">
-    <configuration name="CollectionMethods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.CollectionMethods2" />
-      <module name="javaintermediate" />
+  <component name="RunManager" selected="Application.FlightsMeter">
+    <configuration name="FlightsMeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="flight_app.avalabile_flights.FlightsMeter" />
+      <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="flight_app.avalabile_flights.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,12 +374,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionTutorial2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.CollectionTutorial2" />
-      <module name="javaintermediate" />
+    <configuration name="HashSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.HashSetDemo" />
+      <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -412,12 +387,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetTutorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashset.HashSetTutorial" />
-      <module name="javaintermediate" />
+    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.ListDemo" />
+      <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashset.*" />
+          <option name="PATTERN" value="list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -425,12 +400,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tutorial1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="genericmethods.Tutorial1" />
-      <module name="javaintermediate" />
+    <configuration name="OverridingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop.overriding.OverridingDemo" />
+      <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="genericmethods.*" />
+          <option name="PATTERN" value="oop.overriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -452,22 +427,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CollectionMethods2" />
-      <item itemvalue="Application.CollectionTutorial2" />
-      <item itemvalue="Application.HashSetTutorial" />
-      <item itemvalue="Application.Tutorial1" />
       <item itemvalue="Application.Tutorial2" />
+      <item itemvalue="Application.OverridingDemo" />
+      <item itemvalue="Application.ListDemo" />
+      <item itemvalue="Application.HashSetDemo" />
+      <item itemvalue="Application.FlightsMeter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlightsMeter" />
+        <item itemvalue="Application.HashSetDemo" />
+        <item itemvalue="Application.ListDemo" />
+        <item itemvalue="Application.OverridingDemo" />
         <item itemvalue="Application.Tutorial2" />
-        <item itemvalue="Application.Tutorial1" />
-        <item itemvalue="Application.HashSetTutorial" />
-        <item itemvalue="Application.CollectionTutorial2" />
-        <item itemvalue="Application.CollectionMethods2" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -730,8 +706,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sssasasa" />
@@ -761,7 +746,6 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java-intermediate/src/main/java/genericmethods/Tutorial1.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>

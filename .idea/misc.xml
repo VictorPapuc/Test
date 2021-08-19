@@ -5,17 +5,18 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring_sample_xml_anno222/pom.xml" />
-        <option value="$PROJECT_DIR$/spring_sample_xml/pom.xml" />
         <option value="$PROJECT_DIR$/spring_sample_xml_configuration/pom.xml" />
-        <option value="$PROJECT_DIR$/spring_sample_xml_anno/pom.xml" />
-        <option value="$PROJECT_DIR$/spring_sample_java_config/pom.xml" />
-        <option value="$PROJECT_DIR$/spring_sample_bean_scope/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/sprin_sample_java_config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_sample/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_sample_bean_scope/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_sample_java_config/pom.xml" />
         <option value="$PROJECT_DIR$/spring_sample_singleton/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_sample_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_sample_xml_anno/pom.xml" />
       </set>
     </option>
   </component>

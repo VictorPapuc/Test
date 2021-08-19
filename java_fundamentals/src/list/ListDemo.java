@@ -18,6 +18,8 @@ public class ListDemo {
         unluckyNumber.add(9);
         //Sets value at index
         unluckyNumber.set(1, 8);
+        unluckyNumber.subList(3, 5);
+
         //For
         for (int i = 0; i < unluckyNumber.size(); i++) {
             System.out.println(unluckyNumber.get(i));

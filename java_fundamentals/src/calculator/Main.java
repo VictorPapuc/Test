@@ -4,14 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-
-//
-//        MathEquation testEquation = new MathEquation();
-//        testEquation.execute();
-//        System.out.println("test =");
-//        System.out.println(testEquation.getResult());
-
-
         MathEquation[] mathEquations = new MathEquation[4];
         mathEquations[0] = new MathEquation('d', 100.0d, 50.0d);
         mathEquations[1] = new MathEquation('a', 25.0d, 92.0d);

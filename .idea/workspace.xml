@@ -4,148 +4,21 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22437610-2c97-4328-81ef-9ad6e9231fd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java_fundamentals/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/avalabile_flights/FlightsMeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/gettersetters/PlaneSeats.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_21_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_21_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_21_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_21_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="22437610-2c97-4328-81ef-9ad6e9231fd5" name="Default Changelist" comment="Tidy up">
+      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/airport/FlightsMeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/methods/FlightCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/plane/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/list/MapsDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/introduction_to_testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/unit-testing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/assert-void-methods/java/build/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/assert-void-methods/java/build/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/assert-void-methods/java/test/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/assert-void-methods/java/test/MyListTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/Cafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/com/monotonic/testing/m2/Cafe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/com/monotonic/testing/m2/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/CoffeeType.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/com/monotonic/testing/m2/CoffeeType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/com/monotonic/testing/m2/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/com/monotonic/testing/m2/WordWrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/com/monotonic/testing/m2/WordWrap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/m5/before_refactor/SalesAnalysisService.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/m5/before_refactor/SalesAnalysisService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/m5/before_refactor/SalesReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/m5/before_refactor/SalesReport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/java/m5/before_refactor/SimpleReportRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/m5/before_refactor/SimpleReportRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/main/resources/example-sales.csv" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/resources/example-sales.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/CafeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/monotonic/testing/m2/CafeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/HamCrestExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/monotonic/testing/m2/HamCrestExampleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/LeapYearTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/monotonic/testing/m2/LeapYearTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction_to_testing/src/test/java/com/monotonic/testing/m2/WordWrapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/monotonic/testing/m2/WordWrapTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-intermediate/javaintermediate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-intermediate/javaintermediate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-intermediate/src/main/java/hashset/HashSetTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/list/HashSetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/abstractization/AbDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/abstractization/Phone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/calculator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/calculator/MathEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/calculator/MathEquation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/Sablon.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/Sablon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/exercise/Test1L1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/exercise/Test1L1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/exercise/Test2L2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/exercise/Test2L2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/exercise/testl3/Dummy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/exercise/testl3/Dummy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/exercise/testl3/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/exercise/testl3/Flight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/Lesson1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/Lesson1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/Lesson2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/Lesson2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson3/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/constructors/Flight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson3/dummy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson4/Earth.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson4/Earth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson4/flight/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson4/flight/Flight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson4/flight/Passanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson4/flight/Passanger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson5/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson5/Flight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson6/CargoFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson6/CargoFlight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson6/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson6/Flight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson6/Passanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson6/Passanger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson6/object/Dummy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson6/object/Dummy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson6/object/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson6/object/Flight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson6/object/Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson6/object/Object.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson7/CargoFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson7/CargoFlight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson7/CargoOnlyPilot.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson7/CargoOnlyPilot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson7/Dummy.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson7/Dummy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson7/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson7/Flight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson7/FullLicensePilot.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson7/FullLicensePilot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/firstpackage/lessons/lesson7/Pilot.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson7/Pilot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/functionality/JavaFunctionalities.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/functionality/variables/Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/types/CastingDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/functionality/variables/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/types/JavaOperatorsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/functionality/variables/Stringuri.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/types/StringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/functionality/variables/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/types/DateTypeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/test/EasyJavaQuestions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/test/Exercise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/test/InterfaceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/test/JavaLogicalExercise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/test/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/javatest/test/javafundamentals/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/list/Liste.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/list/ListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/overriding/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/oop/overriding/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/overriding/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/oop/overriding/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/overriding/OverridingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/oop/overriding/OverridingDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample/spring_sample.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample/src/main/java/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample/src/main/java/com/learn/model/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample/src/main/java/com/learn/repository/CustomerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample/src/main/java/com/learn/repository/HibernateCustomerRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample/src/main/java/com/learn/service/CustomerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample/src/main/java/com/learn/service/CustomerServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/spring_sample.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/spring_sample_bean_scope.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/spring_sample_java_config.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/src/main/java/AppConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/src/main/java/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/src/main/java/com/learn/model/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/src/main/java/com/learn/repository/CustomerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/src/main/java/com/learn/repository/HibernateCustomerRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/src/main/java/com/learn/service/CustomerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_bean_scope/src/main/java/com/learn/service/CustomerServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/spring_sample.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/spring_sample_java_config.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/src/main/java/AppConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/src/main/java/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/src/main/java/com/learn/model/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/src/main/java/com/learn/repository/CustomerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/src/main/java/com/learn/repository/HibernateCustomerRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/src/main/java/com/learn/service/CustomerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/src/main/java/com/learn/service/CustomerServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_java_config/src/main/resources/app.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml/spring_sample_xml.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml/src/main/java/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml/src/main/java/com/learn/model/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml/src/main/java/com/learn/repository/CustomerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml/src/main/java/com/learn/repository/HibernateCustomerRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml/src/main/java/com/learn/service/CustomerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml/src/main/java/com/learn/service/CustomerServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml/target/classes/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml/target/classes/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/spring_sample_xml.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/spring_sample_xml_anno.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java/com/learn/model/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java/com/learn/repository/CustomerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java/com/learn/repository/HibernateCustomerRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java/com/learn/service/CustomerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/src/main/java/com/learn/service/CustomerServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_sample_xml_anno/src/main/resources/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tatuaj/src/tattoo/BaseClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tatuaj/src/tattoo/Life.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tatuaj/tatuaj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/playground/playground.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/Blocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/Blocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/Chick.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/Chick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/LoopLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/LoopLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/Modulululus.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/Modulululus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/Rabbit.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/Rabbit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/RandomClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/RandomClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/Scanarea.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/Scanarea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/StatiCINs.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/StatiCINs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_various_stuff/src/Writer.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/Writer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_various_stuff/test_various_stuff.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/constructors/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/constructors/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/avalabile_flights/FlightsMeter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/exercise/Test1L1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/exercise/Test2L2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/exercise/testl3/Dummy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/exercise/testl3/Flight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/gettersetters/PlaneSeats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/list/HashSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/list/ListCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/list/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/list/ListDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -362,11 +235,11 @@
   </component>
   <component name="RunManager" selected="Application.FlightsMeter">
     <configuration name="FlightsMeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="flight_app.avalabile_flights.FlightsMeter" />
+      <option name="MAIN_CLASS_NAME" value="flight_app.airport.FlightsMeter" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="flight_app.avalabile_flights.*" />
+          <option name="PATTERN" value="flight_app.airport.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,8 +247,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.HashSetDemo" />
+    <configuration name="ListCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.ListCasting" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -430,13 +303,13 @@
       <item itemvalue="Application.Tutorial2" />
       <item itemvalue="Application.OverridingDemo" />
       <item itemvalue="Application.ListDemo" />
-      <item itemvalue="Application.HashSetDemo" />
       <item itemvalue="Application.FlightsMeter" />
+      <item itemvalue="Application.ListCasting" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.FlightsMeter" />
-        <item itemvalue="Application.HashSetDemo" />
+        <item itemvalue="Application.ListCasting" />
         <item itemvalue="Application.ListDemo" />
         <item itemvalue="Application.OverridingDemo" />
         <item itemvalue="Application.Tutorial2" />
@@ -619,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566655079285</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Tidy up">
+      <created>1629358245580</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1629358245580</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -737,7 +617,8 @@
     <MESSAGE value="New shit and OCA FILES" />
     <MESSAGE value="Introduction to Testing" />
     <MESSAGE value="Introduction to Testing the stupid xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Introduction to Testing the stupid xml" />
+    <MESSAGE value="Tidy up" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tidy up" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">

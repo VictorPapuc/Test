@@ -1,6 +1,6 @@
 package flight_app.plane;
 
-public class Plane {
+public class Plane{
 
     private final int seats = 100;
     private int lifeVests;

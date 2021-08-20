@@ -4,21 +4,15 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22437610-2c97-4328-81ef-9ad6e9231fd5" name="Default Changelist" comment="Tidy up">
-      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/airport/FlightsMeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/methods/FlightCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/plane/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/list/MapsDemo.java" afterDir="false" />
+    <list default="true" id="22437610-2c97-4328-81ef-9ad6e9231fd5" name="Default Changelist" comment="Re-Done some stuff">
+      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/FlightFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/CargoFlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/PassengerFlight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/constructors/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/constructors/Flight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/avalabile_flights/FlightsMeter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/exercise/Test1L1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/exercise/Test2L2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/exercise/testl3/Dummy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/exercise/testl3/Flight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/gettersetters/PlaneSeats.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/list/HashSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/list/ListCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/list/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/list/ListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/airport/FlightsMeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/airport/FlightsMeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/constructors/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/methods/FlightCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/methods/FlightCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/plane/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/plane/Plane.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -499,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629358245580</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Re-Done some stuff">
+      <created>1629380032361</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1629380032361</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -618,7 +619,8 @@
     <MESSAGE value="Introduction to Testing" />
     <MESSAGE value="Introduction to Testing the stupid xml" />
     <MESSAGE value="Tidy up" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tidy up" />
+    <MESSAGE value="Re-Done some stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Re-Done some stuff" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">

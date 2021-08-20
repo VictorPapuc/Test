@@ -1,8 +1,8 @@
-package flight_app.constructors;
+package flight_app.flight_type;
 
 import flight_app.plane.Plane;
 
-public class Flight {
+public class CargoFlight extends Flight {
 
     private Plane plane = new Plane();
 
@@ -14,7 +14,7 @@ public class Flight {
     private final String departureDate;
     private final int passengers;
 
-    private Flight(Builder builder) {
+    public CargoFlight(Builder builder) {
         this.flightName = builder.flightName;
         this.company = builder.company;
         this.departureCountry = builder.departureCountry;
@@ -22,6 +22,7 @@ public class Flight {
         this.duration = builder.duration;
         this.departureDate = builder.departureDate;
         this.passengers = builder.passengers;
+        flightAnalysis();
     }
 
     public static class Builder {
@@ -69,8 +70,8 @@ public class Flight {
             return this;
         }
 
-        public Flight build() {
-            return new Flight(this);
+        public CargoFlight build() {
+            return new CargoFlight(this);
         }
     }
 

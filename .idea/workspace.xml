@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22437610-2c97-4328-81ef-9ad6e9231fd5" name="Default Changelist" comment="Re-Done some stuff">
-      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/FlightFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/CargoFlight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/PassengerFlight.java" afterDir="false" />
+    <list default="true" id="22437610-2c97-4328-81ef-9ad6e9231fd5" name="Default Changelist" comment="Inheritance">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/airport/FlightsMeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/airport/FlightsMeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/constructors/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/CargoFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/CargoFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/PassengerFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/PassengerFlight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/methods/FlightCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/methods/FlightCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/plane/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/plane/Plane.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -500,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629380032361</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Inheritance">
+      <created>1629472264357</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1629472264357</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -620,7 +625,8 @@
     <MESSAGE value="Introduction to Testing the stupid xml" />
     <MESSAGE value="Tidy up" />
     <MESSAGE value="Re-Done some stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="Re-Done some stuff" />
+    <MESSAGE value="Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">

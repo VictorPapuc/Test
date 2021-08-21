@@ -14,7 +14,7 @@ public class CargoFlight extends Flight {
     private final String departureDate;
     private final int passengers;
 
-    public CargoFlight(Builder builder) {
+    private CargoFlight(Builder builder) {
         this.flightName = builder.flightName;
         this.company = builder.company;
         this.departureCountry = builder.departureCountry;

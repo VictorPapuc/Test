@@ -14,7 +14,7 @@ public class FlightsMeter {
         FlightCounter flightCounter = new FlightCounter();
 
         PassengerFlight flight = new PassengerFlight.Builder()
-                .Name("X83123")
+                .Name("X8111")
                 .company("Ryan Air")
                 .departureCountry("Ro")
                 .arrivingCountry("AT")
@@ -41,6 +41,10 @@ public class FlightsMeter {
 
         System.out.println("Airport Flights");
         System.out.println(flightCounter.mapFlight(flights));
+
+        int counter = FlightCounter.howManyFlightFlew ;
+
+        System.out.println(counter);
     }
 
 }

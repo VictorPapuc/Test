@@ -1,8 +1,9 @@
 package flight_app.flight_type;
 
+import flight_app.AirportFunctions;
 import flight_app.plane.Plane;
 
-public class CargoFlight extends Flight {
+public class CargoAirport extends Flight implements AirportFunctions {
 
     private Plane plane = new Plane();
 
@@ -12,16 +13,15 @@ public class CargoFlight extends Flight {
     private final String arrivingCountry;
     private final int duration;
     private final String departureDate;
-    private final int passengers;
 
-    public CargoFlight(Builder builder) {
+
+    private CargoAirport(Builder builder) {
         this.flightName = builder.flightName;
         this.company = builder.company;
         this.departureCountry = builder.departureCountry;
         this.arrivingCountry = builder.arrivingCountry;
         this.duration = builder.duration;
         this.departureDate = builder.departureDate;
-        this.passengers = builder.passengers;
         flightAnalysis();
     }
 
@@ -33,7 +33,7 @@ public class CargoFlight extends Flight {
         private String arrivingCountry;
         private int duration;
         private String departureDate;
-        private int passengers;
+
 
         public Builder flightName(String flightName) {
             this.flightName = flightName;
@@ -65,25 +65,11 @@ public class CargoFlight extends Flight {
             return this;
         }
 
-        public Builder passengers(int passengers) {
-            this.passengers = passengers;
-            return this;
-        }
 
-        public CargoFlight build() {
-            return new CargoFlight(this);
+        public CargoAirport build() {
+            return new CargoAirport(this);
         }
     }
-
-    private int getFreeSeats() {
-        return plane.getSeats() - getPassengers();
-    }
-
-    private boolean requireLifeJackets() {
-        plane.setLifeVests(getFreeSeats());
-        return false;
-    }
-
 
     public String getFlightName() {
         return flightName;
@@ -109,13 +95,21 @@ public class CargoFlight extends Flight {
         return departureDate;
     }
 
-    public int getPassengers() {
-        return passengers;
+
+    @Override
+    public void flyFrom(String airport) {
+        airport = this.departureCountry;
+        System.out.println(airport);
+    }
+
+    @Override
+    public void flyTo(String airport) {
+        System.out.println(airport);
+        flightCleared();
     }
 
     public void flightAnalysis() {
-        System.out.println("Flight " + this.flightName + " has " + plane.getSeats() + " seats" + " occupied of" + getFreeSeats() + " with the number of " + getPassengers() + " passengers");
-        System.out.println(requireLifeJackets());
+        System.out.println("Flight " + this.flightName + " has " + plane.getSeats() + " seats" + " occupied of" + getDuration() + " with the number of " + getCompany() + " passengers");
     }
 
 }

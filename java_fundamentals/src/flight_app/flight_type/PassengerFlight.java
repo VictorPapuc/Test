@@ -13,7 +13,7 @@ public class PassengerFlight extends Flight {
     private final String departureDate;
     private final int passengers;
 
-    public PassengerFlight(Builder builder) {
+    private PassengerFlight(Builder builder) {
         this.Name = builder.Name;
         this.company = builder.company;
         this.departureCountry = builder.departureCountry;

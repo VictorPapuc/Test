@@ -1,4 +1,4 @@
-package oop.overriding;
+package oop.polymorphism.overriding;
 
 class Parent {
 

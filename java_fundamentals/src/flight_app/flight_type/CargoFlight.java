@@ -3,7 +3,7 @@ package flight_app.flight_type;
 import flight_app.AirportFunctions;
 import flight_app.plane.Plane;
 
-public class CargoAirport extends Flight implements AirportFunctions {
+public class CargoFlight extends Flight implements AirportFunctions {
 
     private Plane plane = new Plane();
 
@@ -14,8 +14,7 @@ public class CargoAirport extends Flight implements AirportFunctions {
     private final int duration;
     private final String departureDate;
 
-
-    private CargoAirport(Builder builder) {
+    private CargoFlight(Builder builder) {
         this.flightName = builder.flightName;
         this.company = builder.company;
         this.departureCountry = builder.departureCountry;
@@ -24,9 +23,7 @@ public class CargoAirport extends Flight implements AirportFunctions {
         this.departureDate = builder.departureDate;
         flightAnalysis();
     }
-
     public static class Builder {
-
         private String flightName;
         private String company;
         private String departureCountry;
@@ -65,9 +62,8 @@ public class CargoAirport extends Flight implements AirportFunctions {
             return this;
         }
 
-
-        public CargoAirport build() {
-            return new CargoAirport(this);
+        public CargoFlight build() {
+            return new CargoFlight(this);
         }
     }
 

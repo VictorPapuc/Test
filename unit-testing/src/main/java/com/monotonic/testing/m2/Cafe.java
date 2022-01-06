@@ -1,5 +1,7 @@
 package com.monotonic.testing.m2;
 
+import java.util.Scanner;
+
 public final class Cafe {
 
 

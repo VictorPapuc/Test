@@ -1,17 +1,18 @@
 public class Test {
 
 
-
- public static String classs ="sss";
-
-
-    public static void main(String[] args) {
-        System.out.println(classs);
-
-
+    Test(int a, int b) {
+        System.out.println("a = " + a + " b = " + b);
     }
-    public void shed(boolean time){
 
+    Test(int a, float b) {
+        System.out.println("a = " + a + " b = " + b);
+    }
+
+    public static void main(String args[]) {
+        byte a = 10;
+        byte b = 15;
+        Test test = new Test(a, b);
     }
 
 }

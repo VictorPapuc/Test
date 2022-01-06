@@ -17,10 +17,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="javaintermediate" />
-        <module name="unit-testing" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="A" target="8" />
       <module name="javaintermediate" target="1.7" />
       <module name="sprin_sample_java_config" target="1.8" />
       <module name="spring_sample" target="1.8" />

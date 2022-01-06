@@ -1,6 +1,6 @@
 package exceptions;
 
-public class CustomExceptionsDemo  extends Exception{
+public class  CustomExceptionsDemo  extends Exception{
 
 
     CustomExceptionsDemo(String errorMessage){

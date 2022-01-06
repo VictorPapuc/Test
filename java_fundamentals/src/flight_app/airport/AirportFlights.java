@@ -1,6 +1,6 @@
 package flight_app.airport;
 
-import flight_app.flight_type.CargoAirport;
+import flight_app.flight_type.CargoFlight;
 import flight_app.flight_type.Flight;
 import flight_app.flight_type.PassengerFlight;
 import flight_app.flightcompanies.Company;
@@ -16,11 +16,11 @@ public class AirportFlights {
             .arrivingCountry("AT")
             .duration(200)
             .departureDate("20/31/2012")
-            .passengers(50)
+            .passengers()
             .build();
 
 
-    CargoAirport cargoFlight = new CargoAirport.Builder()
+    CargoFlight cargoFlight = new CargoFlight.Builder()
             .flightName("X83123")
             .company("Ryan Air")
             .departureCountry("Ro")

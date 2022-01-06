@@ -5,11 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22437610-2c97-4328-81ef-9ad6e9231fd5" name="Default Changelist" comment="Inheritance">
-      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/exceptions/CustomExceptionsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/airport/AirportFlights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/passanger/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playground/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playground/src/palindrome/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playground/src/palindrome/WithStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playground/src/palindrome/withLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/exceptions/ExceptionsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/calculator/MathEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-intermediate/javaintermediate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-intermediate/javaintermediate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/exceptions/CustomExceptionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/exceptions/CustomExceptionsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/airport/AirportFlights.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/airport/AirportFlights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/airport/FlightsMeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/airport/FlightsMeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/CargoAirport.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/CargoFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/PassengerFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/flight_type/PassengerFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson6/CargoFlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson6/CargoFlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson6/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/lessons/lesson6/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_fundamentals/src/flight_app/methods/FlightCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/java_fundamentals/src/flight_app/methods/FlightCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playground/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/playground/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit-testing/src/main/java/com/monotonic/testing/m2/Cafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing/src/main/java/com/monotonic/testing/m2/Cafe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +142,9 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
@@ -191,7 +210,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/spring_sample_xml_anno/src/main/resources/applicationContext.xml" />
   </component>
   <component name="RecentsManager">
@@ -225,16 +244,10 @@
       <recent name="firstpackage.lessons.lesson7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExceptionsDemo">
-    <configuration name="ExceptionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptions.ExceptionsDemo" />
-      <module name="java_fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.FlightsMeter">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial" />
+      <module name="playground" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -252,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.ListCasting" />
+    <configuration name="Passenger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="flight_app.flight_type.passanger.Passenger" />
       <module name="java_fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.*" />
+          <option name="PATTERN" value="flight_app.flight_type.passanger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,12 +278,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.ListDemo" />
-      <module name="java_fundamentals" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="palindrome.Test" />
+      <module name="playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.*" />
+          <option name="PATTERN" value="palindrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,12 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolyMorphismDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.polymorphism.PolyMorphismDemo" />
-      <module name="java_fundamentals" />
+    <configuration name="withLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="palindrome.withLoops" />
+      <module name="playground" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.polymorphism.*" />
+          <option name="PATTERN" value="palindrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,19 +305,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ExceptionsDemo" />
+      <item itemvalue="Application.withLoops" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.Passenger" />
       <item itemvalue="Application.FlightsMeter" />
-      <item itemvalue="Application.ListCasting" />
-      <item itemvalue="Application.ListDemo" />
-      <item itemvalue="Application.PolyMorphismDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PolyMorphismDemo" />
-        <item itemvalue="Application.ListDemo" />
-        <item itemvalue="Application.ListCasting" />
         <item itemvalue="Application.FlightsMeter" />
-        <item itemvalue="Application.ExceptionsDemo" />
+        <item itemvalue="Application.Passenger" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.withLoops" />
       </list>
     </recent_temporary>
   </component>
@@ -609,7 +622,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sssasasa" />
@@ -643,6 +655,14 @@
           <url>file://$PROJECT_DIR$/java-intermediate/src/main/java/genericmethods/Tutorial1.java</url>
           <line>13</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/java_fundamentals/src/oop/polymorphism/overriding/Child.java</url>
+          <line>4</line>
+          <properties class="oop.polymorphism.overriding.Child" method="show">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

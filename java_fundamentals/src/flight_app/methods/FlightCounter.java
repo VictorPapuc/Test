@@ -13,7 +13,6 @@ public class FlightCounter {
     public Map<Integer, String> mapFlight(List<Flight> flightNumbers) {
         Map<Integer, String> mapFlight = new LinkedHashMap<>();
 
-
         for (int i = 0; i < flightNumbers.size(); i++) {
             mapFlight.put(i + 1, "flightNumbers.get(i)");
             FlightCounter.counter();

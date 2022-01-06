@@ -2,7 +2,6 @@ package flight_app.lessons.lesson6;
 
 public class CargoFlight extends Flight {
 
-
     float maxCargoSpace = 1000.0f;
     float usedCargoSpace;
 
@@ -25,19 +24,10 @@ public class CargoFlight extends Flight {
         Flight f2 = new CargoFlight();
         System.out.println((f2.getSeats()));
 
-
-
     }
 
 
-    public void add1Package(double h, double w, double d) {
-        double size = h * w * d;
-        if (hasCargoSpace(size))
-            usedCargoSpace += size;
-        else
-            handeNoSpace();
 
-    }
 
     private boolean hasCargoSpace(double size) {
         return usedCargoSpace + size <= maxCargoSpace;

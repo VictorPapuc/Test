@@ -7,7 +7,7 @@ public class Flight {
 
     public static void main(String[] args) {
         CargoFlight cf = new CargoFlight();
-        cf.add1Package(1.0, 2.5, 3.0);
+//        cf.add1Package(1.0, 2.5, 3.0);
 
     }
 

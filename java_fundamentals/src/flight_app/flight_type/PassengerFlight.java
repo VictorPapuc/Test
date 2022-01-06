@@ -1,9 +1,11 @@
 package flight_app.flight_type;
+
+import flight_app.flight_type.passanger.Passenger;
 import flight_app.plane.Plane;
 
 public class PassengerFlight extends Flight {
 
-    private Plane plane = new Plane();
+    private final Plane plane = new Plane();
 
     private final String Name;
     private final String company;
@@ -20,7 +22,7 @@ public class PassengerFlight extends Flight {
         this.arrivingCountry = builder.arrivingCountry;
         this.duration = builder.duration;
         this.departureDate = builder.departureDate;
-        this.passengers = builder.passengers;
+        this.passengers = Passenger.getCounter();
         flightAnalysis();
     }
 
@@ -64,8 +66,8 @@ public class PassengerFlight extends Flight {
             return this;
         }
 
-        public Builder passengers(int passengers) {
-            this.passengers = passengers;
+        public Builder passengers() {
+            passengers = Passenger.getCounter();
             return this;
         }
 

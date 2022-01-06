@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/java-intermediate/javaintermediate.iml" filepath="$PROJECT_DIR$/java-intermediate/javaintermediate.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_sample_java_config/src/main/main.iml" filepath="$PROJECT_DIR$/spring_sample_java_config/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/playground/playground.iml" filepath="$PROJECT_DIR$/playground/playground.iml" />
-      <module fileurl="file://$PROJECT_DIR$/unit-testing/unit-testing.iml" filepath="$PROJECT_DIR$/unit-testing/unit-testing.iml" />
     </modules>
   </component>
 </project>
